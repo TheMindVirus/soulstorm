@@ -1,7 +1,7 @@
 # soulstorm
 Asset Decoder for Warhammer: Dawn of War - Soulstorm (requires .whm to .x converter first)
 
-![screenshot1]("https://github.com/TheMindVirus/soulstorm/blob/main/screenshot1.png")
+![screenshot1](https://github.com/TheMindVirus/soulstorm/blob/main/screenshot1.png)
 
 # Explanation
 The Asset files for Soulstorm are illegible to both humans and machines. \
@@ -11,7 +11,7 @@ Other data includes stats and animation which can be extracted using DoW ModTool
 This is all compressed inside a .sga archive which is like a .jar file \
 that 7-zip doesn't know how to open.
 
-![screenshot2]("https://github.com/TheMindVirus/soulstorm/blob/main/screenshot2.png")
+![screenshot2](https://github.com/TheMindVirus/soulstorm/blob/main/screenshot2.png)
 
 My scripts need to be used with DoW_Modtools_setup_v1 \
 and mudflaps-whm-to-x-converter from Mudflaps_whm_and_whe_Tools_2008_III \
@@ -26,4 +26,4 @@ so you can include the assets in e.g. Tabletop Simulator. \
 The assets are now also human readable which makes it easier to port \
 in newer versions of the omniverse.
 
-![screenshot3]("https://github.com/TheMindVirus/soulstorm/blob/main/screenshot3.png")
+![screenshot3](https://github.com/TheMindVirus/soulstorm/blob/main/screenshot3.png)
